@@ -50,7 +50,7 @@ export const site = {
     { value: "100+", label: "Shoots" },
     { value: "100+", label: "Happy Clients" },
   ],
-  email: "saketsp824@gmail.com",
+  email: "sanketsp824@gmail.com",
   phone: "+91 8310942642",
   location: "Vijayapura, Karnataka",
   instagram: "https://www.instagram.com/the_sanket__46",
